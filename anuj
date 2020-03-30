@@ -22,6 +22,7 @@ void intro(){
 			);
 }
 
+
 void input(){
 	int map,  i, t;
 	printf("Enter total no of queries: "); scanf("%d", &n);
