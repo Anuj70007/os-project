@@ -12,6 +12,7 @@ struct happy{
 int n, fc=0, sc=0, mc=0;
 int quanta;
 
+
 void intro(){
 	printf("\n>follow these instruction for proper functioning of the program"
 			"\n>Enter time in format 11:00 am enter 1100"
